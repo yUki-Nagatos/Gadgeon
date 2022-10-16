@@ -1,0 +1,38 @@
+.back{
+    background-image:url("../../assets/images/back.jpg");
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+   
+ }
+
+ .column {
+    float: left;
+   background-color: rgba(255, 255, 255, 0.223);
+   height: 200px;
+   width: 300px;
+   border-radius: 8px;
+   margin: 55px;
+  }
+
+  .column:hover{
+  background-color: rgba(8, 8, 80, 0.471);
+  }
+
+  .image{
+    height: 150px;
+    border-radius: 10px;
+    margin: 10px;
+    margin-left: 25px;
+    margin-bottom: 1px;
+
+  }
+  .heading{
+    font-family: serif;
+    text-align: center;
+    color:rgb(30, 4, 77);
+  }
+  .heading:hover{
+    color: rgba(255, 255, 255, 0.567);
+  }
+

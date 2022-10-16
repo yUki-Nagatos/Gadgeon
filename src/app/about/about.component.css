@@ -1,0 +1,31 @@
+.back{
+    background-image:url("../../assets/images/about_back.jpg");
+    height: 600px;
+    width: 100%;
+    background-size: cover;
+   
+ }
+
+
+  .image{
+    height: 300px;
+    border-radius: 10px;
+    margin: 140px;
+    margin-bottom: 0px;
+
+  }
+  .heading{
+    font-family: serif;
+    text-align: center;
+    color:rgb(30, 4, 77);
+  }
+  .heading:hover{
+    color: rgba(255, 255, 255, 0.567);
+  }
+  
+  .p{
+    position: absolute;
+    top: 150px;
+    left: 160px;
+    font-size: 0.3cm;
+  }

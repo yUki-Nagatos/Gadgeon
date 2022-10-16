@@ -25,3 +25,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
+
+##DESCRIPTION
+
+A single page application Gadgeon page was created with navigate buttons Home, Contact, Services, About. Each redirecting to a responsive page with hedders and footers. Home button redirects to the Home page having images and contents of the company. Contact contains columns to read pesonal details and a message to the owner.
+Service includes few necessary services opted / given by the company along with attractive images and names.
+
+About describes about the company profile and neccesary detailing. Routing was added to redirect to different pages on clicking the buttons.
+More responsive images and texts were added to make the page look mre attractive and competing.
